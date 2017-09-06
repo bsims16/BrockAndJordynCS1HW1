@@ -5,6 +5,7 @@ Hello
 
 ## git log 1.
 
+```sh
 commit 6ff7d1f329ab55a305f7d3659a061b3223f8677d
 Author: Brcok Sims <simsbt@student.swosu.edu>
 Date:   Wed Sep 6 16:33:30 2017 -0700
@@ -16,3 +17,6 @@ Author: Brcok Sims <simsbt@student.swosu.edu>
 Date:   Wed Sep 6 16:25:48 2017 -0700
 
     first commit
+```
+
+## Story 2:
