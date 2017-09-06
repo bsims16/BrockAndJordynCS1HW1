@@ -48,7 +48,7 @@ Date:   Wed Sep 6 16:25:48 2017 -0700
 
 ## Story 3 
 
-Brock
+Brock 42
 
 Jeremey
 This is the story from Jeremy. Good times.
